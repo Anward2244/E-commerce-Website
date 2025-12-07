@@ -1,0 +1,99 @@
+:root {
+    --primary: #27ae60;
+    --dark: #2c3e50;
+    --bg: #e8f6f3;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    height: 100vh;
+    background-color: var(--bg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkout-modal {
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    animation: slideUp 0.5s ease;
+}
+
+@keyframes slideUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.icon-header {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    color: var(--dark);
+    margin: 0 0 10px;
+}
+
+.desc { color: #7f8c8d; font-size: 0.9rem; margin-bottom: 30px; line-height: 1.5; }
+
+.payment-info {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.payment-info p {
+    margin: 0 0 10px;
+    font-size: 0.8rem;
+    color: #aaa;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.method {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    color: var(--dark);
+}
+
+.check { color: var(--primary); font-weight: bold; }
+
+.actions { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+
+button {
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.3s;
+}
+
+.cancel-btn {
+    background: #f1f1f1;
+    color: #7f8c8d;
+}
+
+.cancel-btn:hover { background: #e0e0e0; }
+
+.confirm-btn {
+    background: var(--dark);
+    color: white;
+}
+
+.confirm-btn:hover {
+    background: var(--primary);
+    box-shadow: 0 5px 15px rgba(39, 174, 96, 0.4);
+}

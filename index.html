@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DesiCouture - Traditional Wear</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="nav-container">
+            <div class="logo">DesiCouture<span>.</span></div>
+            <nav>
+                <span id="user-greeting" class="greeting"></span>
+                <button id="auth-btn" onclick="handleAuth()" class="nav-btn">Login</button>
+                <div class="cart-wrapper" onclick="goToCart()">
+                    <span class="cart-icon">🛍️</span>
+                    <span id="cart-count" class="badge">0</span>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="hero-section">
+        <div class="hero-content">
+            <h1>Weave Your Story</h1>
+            <p>Handcrafted elegance for Men, Women & Kids.</p>
+            <a href="#product-grid" class="explore-btn">Shop Collection</a>
+        </div>
+    </div>
+
+    <main>
+        <div class="section-title">
+        </div>
+
+        <div id="product-grid" class="grid-container">
+            <!-- Products injected by JS -->
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 DesiCouture. Celebrate Tradition.</p>
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+</html>

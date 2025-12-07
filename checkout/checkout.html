@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - DesiCouture</title>
+    <link rel="stylesheet" href="checkout.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="overlay">
+        <div class="checkout-modal">
+            <div class="icon-header">✨</div>
+            <h2>Confirm Purchase</h2>
+            <p class="desc">You are just one step away from owning authentic elegance.</p>
+            
+            <div class="payment-info">
+                <p>Payment Method</p>
+                <div class="method">
+                    <span>📦 Cash on Delivery</span>
+                    <span class="check">✓</span>
+                </div>
+            </div>
+
+            <div class="actions">
+                <button class="cancel-btn" onclick="window.location.href='../cart/cart.html'">Go Back</button>
+                <button class="confirm-btn" onclick="confirmOrder()">Place Order</button>
+            </div>
+        </div>
+    </div>
+    <script src="checkout.js"></script>
+</body>
+</html>
