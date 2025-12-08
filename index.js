@@ -4,73 +4,73 @@ const products = [
     // --- MEN'S COLLECTION ---
     { 
         id: 1, 
-        name: "Men's Royal Sherwani", 
+        name: "Men's Checkered Shirt", 
         category: "Men", 
         price: 12999, 
-        img: "https://images.unsplash.com/photo-1597969892064-a7b2c554c332?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/u/6/a/-original-imahfqhcngcvu33h.jpeg?q=70" 
     },
     { 
         id: 5, 
-        name: "Men's Festive Kurta", 
+        name: "Men's Polyster Dark Green Tshirt", 
         category: "Men", 
         price: 2499, 
-        img: "https://images.unsplash.com/photo-1629853906660-3162788c0326?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/v/z/r/xxl-tsrt-catalog-03-kajaru-original-imagprym5gyz3jxh.jpeg?q=70" 
     },
     { 
         id: 10, 
         name: "Men's Pathani Suit", 
         category: "Men", 
         price: 3500, 
-        img: "https://images.unsplash.com/photo-1632120038815-585860367204?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/w/b/7/3xl-white-pp-om-sai-empire-original-imahdnvuurztvu58.jpeg?q=70" 
     },
     { 
         id: 14, 
         name: "Men's Jodhpuri Suit", 
         category: "Men", 
         price: 8999, 
-        img: "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/suit/s/6/6/38-suit-meti-blac-aljaami-original-imahhkzbgs3kptch.jpeg?q=70" 
     },
     { 
         id: 17, 
         name: "Classic Nehru Jacket", 
         category: "Men", 
         price: 1999, 
-        img: "https://images.unsplash.com/photo-1616212133276-8803154564c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/l5cslu80/waistcoat/q/d/z/m-marun-01-maksud-enterprise-original-imaggfvzch8u8cz7.jpeg?q=70" 
     },
     { 
         id: 18, 
         name: "Silk Kurta Pajama", 
         category: "Men", 
         price: 2800, 
-        img: "https://images.unsplash.com/photo-1607541604593-6b7448d3db01?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/b/l/e/xl-mf-mkpj0107-maahi-fabs-original-imahg548jpquhqk7.jpeg?q=70" 
     },
     { 
         id: 19, 
         name: "Indo-Western Set", 
         category: "Men", 
         price: 6500, 
-        img: "https://images.unsplash.com/photo-1596392996963-c1f03f56d953?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/sherwani/n/e/h/xl-1-mehndi-sherwani-aljaami-original-imahcy3h6zmmjtzz.jpeg?q=70" 
     },
     { 
         id: 20, 
         name: "Floral Print Kurta", 
         category: "Men", 
         price: 1500, 
-        img: "https://images.unsplash.com/photo-1629853906565-385a083690d5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/1/y/o/xxl-ko-650lemon-jompers-original-imahfzk9fg7bvqnb.jpeg?q=70" 
     },
     { 
         id: 21, 
         name: "Wedding Bandhgala", 
         category: "Men", 
         price: 14500, 
-        img: "https://images.unsplash.com/photo-1603258593922-073c6838a5b6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/blazer/r/9/g/34-superb-black-humjoli-original-imah3khwk9mpvfw3.jpeg?q=70" 
     },
     { 
         id: 22, 
         name: "Linen Short Kurta", 
         category: "Men", 
         price: 1200, 
-        img: "https://images.unsplash.com/photo-1589810635657-232948472d98?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-kurta/h/2/g/xxl-vl-kbt-ch-a-vida-loca-original-imah8zt9st9ru2mr.jpeg?q=70" 
     },
 
     // --- WOMEN'S COLLECTION ---
