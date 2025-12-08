@@ -79,77 +79,77 @@ const products = [
         name: "Banarasi Silk Saree", 
         category: "Women", 
         price: 8500, 
-        img: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/h/h/9/free-4240s6672r-satrani-unstitched-original-imahayuypnshxwce.jpeg?q=70" 
     },
     { 
         id: 4, 
         name: "Designer Lehenga Choli", 
         category: "Women", 
         price: 15500, 
-        img: "https://images.unsplash.com/photo-1583391733956-6c78276477e2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/lehenga-choli/r/s/7/free-half-sleeve-lc-sansa-shree-impex-original-imahfacmfwmvbxug.jpeg?q=70" 
     },
     { 
         id: 8, 
         name: "Women's Anarkali Suit", 
         category: "Women", 
         price: 4200, 
-        img: "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/salwar-kurta-dupatta/t/3/o/l-yellow-anarkali-3p-oumad-original-imah82n6fprwexkg.jpeg?q=70" 
     },
     { 
         id: 9, 
         name: "Women's Silk Kurti Set", 
         category: "Women", 
         price: 2999, 
-        img: "https://images.unsplash.com/photo-1583391733975-d18d04423871?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/salwar-kurta-dupatta/j/a/7/-original-imahfphezrhzggyg.jpeg?q=70" 
     },
     { 
         id: 13, 
         name: "Handloom Cotton Saree", 
         category: "Women", 
         price: 4500, 
-        img: "https://images.unsplash.com/photo-1609357606129-28f69b17d9b9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/l/u/q/-original-imagu22acdazvnbm.jpeg?q=70" 
     },
     { 
         id: 23, 
-        name: "Chikankari Georgette Saree", 
+        name: "Salwar Suit", 
         category: "Women", 
         price: 5500, 
-        img: "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/salwar-kurta-dupatta/y/k/m/5xl-joplrw-rajnandini-original-imah2na5yxf9wtqb.jpeg?q=70" 
     },
     { 
         id: 24, 
-        name: "Phulkari Dupatta Set", 
+        name: "Kurta Set", 
         category: "Women", 
         price: 1800, 
-        img: "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/z/y/b/m-shloka-shree-ramkrishna-fab-original-imahhayzfhqqjpdz.jpeg?q=70" 
     },
     { 
         id: 25, 
         name: "Sharara Suit Set", 
         category: "Women", 
         price: 3800, 
-        img: "https://images.unsplash.com/photo-1616896264883-9b2e2d93e130?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/v/j/k/m-mustard-kurta-set-suyasam-creation-original-imah8t6azysgzvef.jpeg?q=70" 
     },
     { 
         id: 26, 
         name: "Kanjeevaram Saree", 
         category: "Women", 
         price: 12000, 
-        img: "https://images.unsplash.com/photo-1586520140232-a3962d3a37c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/sari/3/p/v/free-fk-ys-og1-tarangini-green-yashika-unstitched-original-imahfnxjvkhtthyh.jpeg?q=70" 
     },
     { 
         id: 27, 
         name: "Printed Cotton Kurti", 
         category: "Women", 
         price: 999, 
-        img: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/o/b/b/m-uk-raani-print-udati-kaliya-original-imahganznkwcthfh.jpeg?q=70" 
     },
     { 
         id: 28, 
         name: "Heavy Bridal Lehenga", 
         category: "Women", 
         price: 25000, 
-        img: "https://images.unsplash.com/photo-1512316609839-ce289d3eba0a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/lehenga-choli/b/y/o/free-sleeveless-heavy-lehenga-jovty-original-imaheb57hnjg63wj.jpeg?q=70" 
     },
 
     // --- KIDS' COLLECTION ---
@@ -158,77 +158,77 @@ const products = [
         name: "Kids Ethnic Jacket Set", 
         category: "Kids", 
         price: 1800, 
-        img: "https://images.unsplash.com/photo-1603258593922-073c6838a5b6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/jacket/7/7/o/13-14-years-2-no-j073406-charchit-original-imah4f5yheqq5jnp.jpeg?q=70" 
     },
     { 
         id: 12, 
         name: "Girls Festive Lehenga", 
         category: "Kids", 
         price: 3200, 
-        img: "https://images.unsplash.com/photo-1621245785055-6b583f73397d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-lehenga-choli/m/k/z/4-5-years-asik-2-purple-eternallexis-original-imahahs7yuqncmgr.jpeg?q=70" 
     },
     { 
         id: 16, 
         name: "Boys Dhoti Kurta", 
         category: "Kids", 
         price: 1500, 
-        img: "https://images.unsplash.com/photo-1616611382422-54d924151740?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/e/h/e/4-5-years-558-royal-blue-24-ng-new-gen-original-imahhzfzt8b7jcr3.jpeg?q=70" 
     },
     { 
         id: 29, 
         name: "Girls Pattu Pavadai", 
         category: "Kids", 
         price: 2100, 
-        img: "https://images.unsplash.com/photo-1627993096057-0105d1c25338?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-lehenga-choli/i/t/t/18-24-months-ishaan-nimbark-creation-original-imahfzqchfdkyst5.jpeg?q=70" 
     },
     { 
         id: 30, 
         name: "Boys Sherwani Set", 
         category: "Kids", 
         price: 2600, 
-        img: "https://images.unsplash.com/photo-1599708153386-5509d73d63b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/f/c/k/4-5-years-indo-western-punjabi-royal-blue-sastrey-original-imagjtz9kesxbhnx.jpeg?q=70" 
     },
     { 
         id: 31, 
         name: "Girls Sharara Set", 
         category: "Kids", 
         price: 1950, 
-        img: "https://images.unsplash.com/photo-1598463935292-6f2030f28826?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-lehenga-choli/9/x/s/9-10-years-sk-yellow-salaserkueti-original-imahcu43eejwjctk.jpeg?q=70" 
     },
     { 
         id: 32, 
         name: "Kids Pathani Suit", 
         category: "Kids", 
         price: 1700, 
-        img: "https://images.unsplash.com/photo-1618217336029-79a6d7195c97?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/x/l/n/7-8-years-pathani-set-hrr-original-imahb922uyqeynzr.jpeg?q=70" 
     },
     { 
         id: 33, 
         name: "Girls Velvet Frock", 
         category: "Kids", 
         price: 1600, 
-        img: "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/d/f/c/4-5-years-428-anmoldress-original-imahf5aeskwnzynf.jpeg?q=70" 
     },
     { 
         id: 34, 
         name: "Boys Brocade Jacket", 
         category: "Kids", 
         price: 1300, 
-        img: "https://images.unsplash.com/photo-1611791557930-b463216892cb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/k0zlsi80/jacket/c/z/m/7-8-years-jbnbj031gn-jbn-creation-original-imafknhhkfzbujnq.jpeg?q=70" 
     },
     { 
         id: 35, 
         name: "Girls Anarkali Gown", 
         category: "Kids", 
         price: 2400, 
-        img: "https://images.unsplash.com/photo-1526466336329-84451722e0e0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/gown/y/y/m/5years-10-11-years-full-sleeve-stitched-anarkali-kurta-barkat-10-original-imahdg8ptyf4mzux.jpeg?q=70" 
     },
     { 
         id: 36, 
-        name: "Infant Ethnic Onesie", 
+        name: "Girl's Party Dress", 
         category: "Kids", 
         price: 850, 
-        img: "https://images.unsplash.com/photo-1522771930-78848d9293e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+        img: "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/c/6/v/7-8-years-n703-black-asrastores-original-imahyayggz9nxrv8.jpeg?q=70" 
     }
 ];
 

@@ -90,7 +90,7 @@ nav { display: flex; align-items: center; gap: 25px; }
 
 /* Hero */
 .hero-section {
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1610189012906-4783382c5e61?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('./Gemini_Generated_Image_ojy6vwojy6vwojy6.png');
     height: 500px;
     background-size: cover;
     background-position: center;
