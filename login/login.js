@@ -5,13 +5,13 @@ document.getElementById('loginForm').addEventListener('submit', function(e) {
     const password = document.getElementById('password').value;
 
     let users = JSON.parse(localStorage.getItem('users')) || [];
-
+    
     // Find user
     const user = users.find(u => u.email === email && u.password === password);
 
     if (user) {
         // Set current session
-        localStorage.setItem('currentUser', email);
+        localStorage.setItem('currentUser', users[0].name);
         alert('Login Successful!');
         window.location.href = '../index.html';
     } else {

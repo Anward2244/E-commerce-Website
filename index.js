@@ -259,7 +259,7 @@ function renderProducts() {
 
     if (trendingItems.length > 0) {
         htmlContent += `
-            <div class="section-title">
+            <div class="section-title" id = 'trending'>
                 <h2>Trending Now</h2>
                 <div class="underline"></div>
             </div>

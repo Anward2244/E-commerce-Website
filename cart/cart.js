@@ -20,11 +20,16 @@ function loadCart() {
             total += item.price;
             return `
                 <div class="cart-item">
-                    <div>
-                        <h4>${item.name}</h4>
-                        <small>${item.category}</small>
+                    <div class='seperate'>
+                        <div>
+                        <img src=${item.img}>
+                        </div>
+                        <div>
+                            <h4>${item.name}</h4>
+                            <small>${item.category}</small>
+                        </div>                    
                     </div>
-                    <div>
+                    <div id='price-tag'>
                         <strong>₹${item.price}</strong>
                         <button class="remove-btn" onclick="removeFromCart(${index})">Remove</button>
                     </div>
