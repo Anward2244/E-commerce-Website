@@ -1,5 +1,3 @@
-// 1. Product Data State
-// Custom dataset using images sourced for catalog look
 const products = [
     // --- MEN'S COLLECTION ---
     { 

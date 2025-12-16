@@ -6,8 +6,8 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f8f9fa;
     margin: 0;
+    background: linear-gradient(145deg, #FF9966 0%, #FF5E62 100%);
 }
 
 header {

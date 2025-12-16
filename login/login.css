@@ -10,7 +10,7 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     height: 100vh;
-    background: linear-gradient(135deg, #2b5876 0%, #4e4376 100%); /* Royal Night Gradient */
+    background: linear-gradient(135deg, #2b5876 0%, #4e4376 100%);
     display: flex;
     justify-content: center;
     align-items: center;
